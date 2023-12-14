@@ -1,0 +1,2 @@
+class PolicyNotFoundException(Exception):
+    pass
